@@ -14,10 +14,7 @@
       "wishList": [],
       "password": "12345",
       "phoneNumber": "+923367088018",
-      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmdWxsTmFtZSI6IlphaGlkIEFsaSIsImVtYWlsIjoiZW5ncnphaGlkNjEyQGdtYWlsLmNvbSIsInBob25lTnVtYmVyIjoiKzkyMzM2NzA4ODAxOCJ9.1RZCkshHMr-g3cJir_ESZj5l7sRsE83JvTMozwp-rzQ",
-      "reviews": [
-          {"totalRating": 4, "ratings": 1, "comments": [{"email": "engrzahid612@gmail.com", "ratingStar": 4 ,"comment": "Incididunt commodo aliquip nisiprehenderit fugiat eu duis dolore veniam reprehenderi"}]}
-        ]
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmdWxsTmFtZSI6IlphaGlkIEFsaSIsImVtYWlsIjoiZW5ncnphaGlkNjEyQGdtYWlsLmNvbSIsInBob25lTnVtYmVyIjoiKzkyMzM2NzA4ODAxOCJ9.1RZCkshHMr-g3cJir_ESZj5l7sRsE83JvTMozwp-rzQ"
     }
   ],
   "products": [
@@ -33,7 +30,10 @@
     "title": "sit anim Lorem",
     "company": "pantaloons",
     "about": "Mollit ut qui duis qui duis. Incididunt commodo aliquip nisiprehenderit fugiat eu duis dolore veniam reprehenderit incididunt anim eu ullamco ipsum aute magna aliquip. Consectetur anim qui sunt cupidatat incididunt esse tempor. Eiusmod ut quis cupidatat do esse esse officia.\r\n",
-    "relatedProducts": []
+    "relatedProducts": [],
+    "reviews": [
+      {"totalRating": 4, "ratings": 1, "comments": [{"email": "engrzahid612@gmail.com", "ratingStar": 4 ,"comment": "Incididunt commodo aliquip nisiprehenderit fugiat eu duis dolore veniam reprehenderi"}]}  
+    ]
   },
   {
     "id": "5b7daff6017d38bca357aa9c",
@@ -49,7 +49,7 @@
     "about": "Et sit laboris duis irure minim aliquip sint ut aliqua ve sunt dolore excepteur et adipisicing nostrud cillum sint eu amet voluptate in officia ut. Reprehenderit incididunt eu velit ea reprehenderit reprehenderit. Consequat esse fugiat occaecat est adipisicing exercitation. Laborum aliqua irure aliqua ipsum ut magna. Ad ea nulla ipsum quis consequat deserunt id.\r\n",
     "relatedProducts": [],
     "reviews": [
-      {"totalRating": 0, "ratings": 0, "comments": []}  
+      {"totalRating": 4, "ratings": 1, "comments": [{"email": "engrzahid612@gmail.com", "ratingStar": 4 ,"comment": "Incididunt commodo aliquip nisiprehenderit fugiat eu duis dolore veniam reprehenderi"}]}  
     ]
   },
   {
@@ -66,7 +66,7 @@
     "about": "Eiusmod consectetur velit do nisi. In in reprehenderit mpor mollit qui qui commodo excepteur ullamco magna amet. Occaecat voluptate sit irure commodo sunt sint. Enim est et in excepteur nulla reprehenderit reprehenderit duis exercitation. Incididunt laborum adipisicing amet minim est sit ullamco consectetur. Consectetur irure consequat duis nulla duis laborum magna ex ut Lorem occaecat irure dolor.\r\n",
     "relatedProducts": [],
     "reviews": [
-      {"totalRating": 0, "ratings": 0, "comments": []}  
+      {"totalRating": 4, "ratings": 1, "comments": [{"email": "engrzahid612@gmail.com", "ratingStar": 4 ,"comment": "Incididunt commodo aliquip nisiprehenderit fugiat eu duis dolore veniam reprehenderi"}]}  
     ]
   },
   {
@@ -83,7 +83,7 @@
     "about": "Eiusmod consectetur velit do nisi. In in reprehenderit ut Lorem do duis et sunt. Minim laboris aliquip fugiat sint tempor mollit qui qui commodo excepteur ullamco magna amet. Occaecat voluptate sit irure commodo sunt sint. Enim est et in excepteur nulla reprehenderit reprehenderit duis exercitation. Incididunt laborum adipisicing amet minim est sit ullamco consectetur. Consectetur irure consequat duis nulla duis laborum magna ex ut Lorem occaecat irure dolor.\r\n",
     "relatedProducts": [],
     "reviews": [
-      {"totalRating": 0, "ratings": 0, "comments": []}  
+      {"totalRating": 4, "ratings": 1, "comments": [{"email": "engrzahid612@gmail.com", "ratingStar": 4 ,"comment": "Incididunt commodo aliquip nisiprehenderit fugiat eu duis dolore veniam reprehenderi"}]}  
     ]
   }
 ]
