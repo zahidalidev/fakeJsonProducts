@@ -16,8 +16,8 @@
       "phoneNumber": "+923367088018",
       "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmdWxsTmFtZSI6IlphaGlkIEFsaSIsImVtYWlsIjoiZW5ncnphaGlkNjEyQGdtYWlsLmNvbSIsInBob25lTnVtYmVyIjoiKzkyMzM2NzA4ODAxOCJ9.1RZCkshHMr-g3cJir_ESZj5l7sRsE83JvTMozwp-rzQ",
       "reviews": [
-        {"totalRating": 4, "ratings": 1, "comments": [{"email": "engrzahid612@gmail.com", "ratingStar": 4 ,"comment": "Incididunt commodo aliquip nisiprehenderit fugiat eu duis dolore veniam reprehenderi"}]}  
-      ],
+          {"totalRating": 4, "ratings": 1, "comments": [{"email": "engrzahid612@gmail.com", "ratingStar": 4 ,"comment": "Incididunt commodo aliquip nisiprehenderit fugiat eu duis dolore veniam reprehenderi"}]}
+        ]
     }
   ],
   "products": [
@@ -33,8 +33,7 @@
     "title": "sit anim Lorem",
     "company": "pantaloons",
     "about": "Mollit ut qui duis qui duis. Incididunt commodo aliquip nisiprehenderit fugiat eu duis dolore veniam reprehenderit incididunt anim eu ullamco ipsum aute magna aliquip. Consectetur anim qui sunt cupidatat incididunt esse tempor. Eiusmod ut quis cupidatat do esse esse officia.\r\n",
-    "relatedProducts": [],
-    
+    "relatedProducts": []
   },
   {
     "id": "5b7daff6017d38bca357aa9c",
@@ -51,7 +50,7 @@
     "relatedProducts": [],
     "reviews": [
       {"totalRating": 0, "ratings": 0, "comments": []}  
-    ],
+    ]
   },
   {
     "id": "5b7daff6f3ee910838618562",
@@ -68,7 +67,7 @@
     "relatedProducts": [],
     "reviews": [
       {"totalRating": 0, "ratings": 0, "comments": []}  
-    ],
+    ]
   },
   {
     "id": "5b7daff6f3ee120831648675",
@@ -85,7 +84,7 @@
     "relatedProducts": [],
     "reviews": [
       {"totalRating": 0, "ratings": 0, "comments": []}  
-    ],
+    ]
   }
 ]
 }
