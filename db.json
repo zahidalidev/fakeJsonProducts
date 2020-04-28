@@ -13,6 +13,19 @@
       "password": "12345",
       "phoneNumber": "+923367088018",
       "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmdWxsTmFtZSI6IlphaGlkIEFsaSIsImVtYWlsIjoiZW5ncnphaGlkNjEyQGdtYWlsLmNvbSIsInBob25lTnVtYmVyIjoiKzkyMzM2NzA4ODAxOCJ9.1RZCkshHMr-g3cJir_ESZj5l7sRsE83JvTMozwp-rzQ"
+    },
+    {
+      "confirmPassword": "12345",
+      "email": "2018cs136@student.uet.edu.pk",
+      "fullName": "Zahid Ali",
+      "id": 2,
+      "isAdmin": false,
+      "orders": [],
+      "cart": [],
+      "wishList": [],
+      "password": "12345",
+      "phoneNumber": "+923367088018",
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmdWxsTmFtZSI6IlphaGlkIEFsaSIsImVtYWlsIjoiMjAxOGNzMTM2QHN0dWRlbnQudWV0LmVkdS5wayIsInBob25lTnVtYmVyIjoiKzkyMzM2NzA4ODAxOCJ9.Jlp-JUEqHSPPaTAhFioiQGPSBQLr7S4WL7fe7mYFoZ0"
     }
   ],
   "products": [
