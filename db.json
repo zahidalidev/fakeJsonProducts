@@ -32,12 +32,12 @@
   {
     "id": "5b7daff6fd5cb23999893543",
     "index": 0,
-    "picture": "https://image.shutterstock.com/image-vector/moisturizing-cosmetic-products-ad-light-260nw-552433030.jpg",
+    "picture": "images/uploads/1588178800839-Beauty_Tik-Tok_03-09_STORY.jpg",
     "pictures": [
-        "https://image.shutterstock.com/image-vector/moisturizing-cosmetic-products-ad-light-260nw-552433030.jpg",
-        "https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/topic_centers/2019-6/12359-7_Products_for_Ingrown_HairsHeader.jpg?w=1155&h=1528",    
-        "https://assets.teenvogue.com/photos/5e67a5ed5ecb0e00082eb772/16:9/w_2560%2Cc_limit/Beauty_Tik-Tok_03-09_STORY.jpg",
-        "https://wp-en.oberlo.com/wp-content/uploads/2018/08/New-Products.jpg"
+        "images/uploads/1588178800839-Beauty_Tik-Tok_03-09_STORY.jpg",
+        "images/uploads/1588178800841-Best-Hair-Makeup-and-Skincare-Products-of-2019-10.jpg",    
+        "images/uploads/1588178800844-New-Products.jpg",
+        "images/uploads/1588178865080-12359-7_Products_for_Ingrown_HairsHeader.jpg"
     ],
     "price": 9201,
     "color": ["black", "Green", "blue"],
@@ -58,12 +58,12 @@
   {
     "id": "5b7daff6017d38bca357aa9c",
     "index": 1,
-    "picture": "https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/topic_centers/2019-6/12359-7_Products_for_Ingrown_HairsHeader.jpg?w=1155&h=1528",
+    "picture": "images/uploads/1588178800841-Best-Hair-Makeup-and-Skincare-Products-of-2019-10.jpg",
     "pictures": [
-        "https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/topic_centers/2019-6/12359-7_Products_for_Ingrown_HairsHeader.jpg?w=1155&h=1528",
-        "https://image.shutterstock.com/image-vector/moisturizing-cosmetic-products-ad-light-260nw-552433030.jpg",
-        "https://assets.teenvogue.com/photos/5e67a5ed5ecb0e00082eb772/16:9/w_2560%2Cc_limit/Beauty_Tik-Tok_03-09_STORY.jpg",
-        "https://wp-en.oberlo.com/wp-content/uploads/2018/08/New-Products.jpg"
+        "images/uploads/1588178800841-Best-Hair-Makeup-and-Skincare-Products-of-2019-10.jpg",
+        "images/uploads/1588178800844-New-Products.jpg",
+        "images/uploads/1588178865080-12359-7_Products_for_Ingrown_HairsHeader.jpg",
+        "images/uploads/1588178800839-Beauty_Tik-Tok_03-09_STORY.jpg"
     ], 
     "price": 9887,
     "color": ["white", "black", "blue"],
@@ -81,12 +81,12 @@
   {
     "id": "5b7daff6f3ee910838618562",
     "index": 2,
-    "picture": "https://assets.teenvogue.com/photos/5e67a5ed5ecb0e00082eb772/16:9/w_2560%2Cc_limit/Beauty_Tik-Tok_03-09_STORY.jpg",
+    "picture": "images/uploads/1588178800844-New-Products.jpg",
     "pictures": [
-        "https://assets.teenvogue.com/photos/5e67a5ed5ecb0e00082eb772/16:9/w_2560%2Cc_limit/Beauty_Tik-Tok_03-09_STORY.jpg",
-        "https://image.shutterstock.com/image-vector/moisturizing-cosmetic-products-ad-light-260nw-552433030.jpg",
-        "https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/topic_centers/2019-6/12359-7_Products_for_Ingrown_HairsHeader.jpg?w=1155&h=1528",
-        "https://wp-en.oberlo.com/wp-content/uploads/2018/08/New-Products.jpg"
+        "images/uploads/1588178800844-New-Products.jpg",
+        "images/uploads/1588178865080-12359-7_Products_for_Ingrown_HairsHeader.jpg",
+        "images/uploads/1588178800839-Beauty_Tik-Tok_03-09_STORY.jpg",
+        "images/uploads/1588178800841-Best-Hair-Makeup-and-Skincare-Products-of-2019-10.jpg"
     ],
     "price": 6471,
     "color": ["red", "Green", "black"],
@@ -104,12 +104,12 @@
   {
     "id": "5b7daff6f3ee120831648675",
     "index": 3,
-    "picture": "https://wp-en.oberlo.com/wp-content/uploads/2018/08/New-Products.jpg",
+    "picture": "images/uploads/1588178865080-12359-7_Products_for_Ingrown_HairsHeader.jpg",
     "pictures": [
-        "https://wp-en.oberlo.com/wp-content/uploads/2018/08/New-Products.jpg",
-        "https://image.shutterstock.com/image-vector/moisturizing-cosmetic-products-ad-light-260nw-552433030.jpg",
-        "https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/topic_centers/2019-6/12359-7_Products_for_Ingrown_HairsHeader.jpg?w=1155&h=1528",
-        "https://assets.teenvogue.com/photos/5e67a5ed5ecb0e00082eb772/16:9/w_2560%2Cc_limit/Beauty_Tik-Tok_03-09_STORY.jpg"
+        "images/uploads/1588178865080-12359-7_Products_for_Ingrown_HairsHeader.jpg",
+        "images/uploads/1588178800839-Beauty_Tik-Tok_03-09_STORY.jpg",
+        "images/uploads/1588178800841-Best-Hair-Makeup-and-Skincare-Products-of-2019-10.jpg",
+        "images/uploads/1588178800844-New-Products.jpg"
     ],
     "price": 641,
     "color": ["white", "Green", "blue"],
