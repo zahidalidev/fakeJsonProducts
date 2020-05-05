@@ -1,6 +1,16 @@
 {
   "orders": [],
-  "venders": [],
+  "venders": [
+    {
+      "id": 1,
+      "shopName": "blitz",
+      "shopType": "engrzahid612@gmail.com",
+      "address": "satelite town",
+      "city": "lahore",
+      "country": "Pakistan",
+      "website": "www.mrfixer.pk"
+    }
+  ],
   "members" : [
     {
       "confirmPassword": "12345",
