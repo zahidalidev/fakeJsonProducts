@@ -47,6 +47,7 @@
   "products": [
   {
     "id": "5b7daff6fd5cb23999893543",
+    "vendor_id": 3,
     "index": 0,
     "picture": "images/uploads/1588178800839-Beauty_Tik-Tok_03-09_STORY.jpg",
     "pictures": [
@@ -73,6 +74,7 @@
   },
   {
     "id": "5b7daff6017d38bca357aa9c",
+    "vendor_id": 3,
     "index": 1,
     "picture": "images/uploads/1588178800841-Best-Hair-Makeup-and-Skincare-Products-of-2019-10.jpg",
     "pictures": [
@@ -96,6 +98,7 @@
   },
   {
     "id": "5b7daff6f3ee910838618562",
+    "vendor_id": 3,
     "index": 2,
     "picture": "images/uploads/1588178800844-New-Products.jpg",
     "pictures": [
@@ -119,6 +122,7 @@
   },
   {
     "id": "5b7daff6f3ee120831648675",
+    "vendor_id": 3,
     "index": 3,
     "picture": "images/uploads/1588178865080-12359-7_Products_for_Ingrown_HairsHeader.jpg",
     "pictures": [
