@@ -31,17 +31,17 @@
     },
      {
       "confirmPassword": "12345",
-      "email": "zahid612@gmail.com",
+      "email": "zahid6122@gmail.com",
       "fullName": "Zahid",
       "id": 3,
-      "isAdmin": false,
+      "isAdmin": true,
       "isVendor": true,
       "orders": [],
       "cart": [],
       "wishList": [],
       "password": "12345",
       "phoneNumber": "+923367088018",
-      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmdWxsTmFtZSI6IlphaGlkIEFsaSIsImVtYWlsIjoiMjAxOGNzMTM2QHN0dWRlbnQudWV0LmVkdS5wayIsInBob25lTnVtYmVyIjoiKzkyMzM2NzA4ODAxOCJ9.Jlp-JUEqHSPPaTAhFioiQGPSBQLr7S4WL7fe7mYFoZ0"
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmdWxsTmFtZSI6IlphaGlkIiwiZW1haWwiOiJ6YWhpZDYxMjJAZ21haWwuY29tIiwicGhvbmVOdW1iZXIiOiIrOTIzMzY3MDg4MDE4In0.5oIosshM8zY39PHGntoY3QczGlrNHVuVZGIx1k7US-g"
     }
   ],
   "products": [
